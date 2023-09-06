@@ -33,5 +33,8 @@ Please refer to [MMsegmentation](https://mmsegmentation.readthedocs.io/en/latest
 ### Quantitative Results
 ![image](https://github.com/sunhuichao/ARNLB/blob/main/Table%20I.png)
 ### Qualitative Results
-![image]()
-    
+<div align=center><img src="https://github.com/sunhuichao/ARNLB/blob/main/Fig%202.png"/></div>
+
+## Acknowledgments
+
+## Citation
